@@ -1,0 +1,5 @@
+--travailler avec git sur un projet
+--repository= dossier (depot) => dossier dans le quel git va stoker l'evolution
+
+
+git init =>  nous permet de creer un autre dossier .git
