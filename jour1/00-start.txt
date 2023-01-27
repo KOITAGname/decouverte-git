@@ -1,0 +1,26 @@
+support :
+https://formation.webdevpro.net/git
+login :
+password :
+note de cours sur un github
+
+
+-----------------------------
+
+git / github
+
+=>est un outil qui permet de VERSIONNER
+=> projet informatique => ecrire du code
+=>plus votre projet va evoluer
+=>plus ca avance plus vous arrivez sur 
+
+=<permet de revenir en arriere
+
+=>ideal pou les 
+
+git est un outil qui permet de faire du VERSIONNING, permet de repondre à 4 questions
+
+=> quel fichier ?
+=> qui l'a modifie?
+=> quand il a ete modifie ?
+=> pourquoi il a ete modifie?

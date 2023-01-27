@@ -1,0 +1,16 @@
+=>pour ajouter des informations aupres de git
+=> qui est en train de travaille
+
+git config --global user.name "Gname K"
+git config --global user.email "gname.koita@yahoo.fr"
+
+
+----------pour supprime les deux ligne----------
+
+git config --global user.name ""
+git config --global user.email ""
+
+---c'est deux commandes n'ont aucune importance pour git
+
+
+cls pour nettoyer le terminale
